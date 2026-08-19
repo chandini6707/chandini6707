@@ -7,4 +7,4 @@ Hi, I'm Chandini
 
 🚀 This GitHub is where I share my learning journey, projects, and things I build along the way.
 
- Learning | Exploring | Building
+ Learning | Exploring 
